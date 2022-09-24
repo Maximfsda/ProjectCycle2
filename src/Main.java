@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //HomeworkOne1
+        //HomeworkOne
         //Task1
         double sum = 0;
         int month = 0;
